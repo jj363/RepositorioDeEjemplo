@@ -32,7 +32,7 @@ public class EjemSobrecarga {
         
         Auto auto2 = new Auto();
         auto2.verDatos();
-
+        System.out.println("Version 1.0");
     }
     
 }
